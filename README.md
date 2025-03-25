@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 
-**Languages:**
+**Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 **Tools & Frameworks:**
@@ -26,4 +26,8 @@
 ### 📈 GitHub Stats
 
 [![Catwine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=catwinee&show_icons=true&theme=transparent)](https://github.com/catwinee)  
+
+---
+
+### Prefered Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catwinee&layout=compact&theme=transparent)](https://github.com/catwinee)
