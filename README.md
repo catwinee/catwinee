@@ -11,7 +11,7 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Cpp](https://img.shields.io/badge/-Cpp-3776AB?logo=python&logoColor=white)
+![Cpp](https://img.shields.io/badge/-Cpp-3776AB?logo=cpp&logoColor=white)
 
 **Tools & Frameworks:**
 *Coming soon...*
