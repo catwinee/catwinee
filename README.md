@@ -1,24 +1,22 @@
+```
+  .oooooo.                 .                     o8o                        
+ d8P'  `Y8b              .o8                     `"'                        
+888           .oooo.   .o888oo oooo oooo    ooo oooo  ooo. .oo.    .ooooo.  
+888          `P  )88b    888    `88. `88.  .8'  `888  `888P"Y88b  d88' `88b 
+888           .oP"888    888     `88..]88..8'    888   888   888  888ooo888 
+`88b    ooo  d8(  888    888 .    `888'`888'     888   888   888  888    .o 
+ `Y8bood8P'  `Y888""8o   "888"     `8'  `8'     o888o o888o o888o `Y8bod8P' 
+                                                                                                                                                      
+```
 # Hello there! 👋 I'm Catwine  
 
-📚 Bachelor of Software Engineering at **Southwest Jiaotong University**  
-💻 Passionate about turning coffee into code  
-🌱 Currently learning **Large Language Models**  
+📚 Bachelor of Software Engineering at **Southwest Jiaotong University**
 
----
+🌱 Currently learning **Graph Neural Network** and **Large Language Models**
 
 ### 🛠️ Tech Stack  
-
-**Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Cpp](https://img.shields.io/badge/-Cpp-3776AB?logo=cpp&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-[![Catwine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=catwinee&show_icons=true&theme=transparent)](https://github.com/catwinee)  
-
----
-
-### Prefered Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catwinee&layout=compact&theme=transparent)](https://github.com/catwinee)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
