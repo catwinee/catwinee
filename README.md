@@ -14,7 +14,10 @@
 
 🌱 Currently learning **Graph Neural Network** and **Large Language Models**
 
-### 🛠️ Tech Stack  
+💻 Know more about me at [My Personal Website](https://catwinee.github.io/)
+
+
+## 🛠️ Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
