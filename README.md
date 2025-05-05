@@ -3,7 +3,6 @@
 📚 Bachelor of Software Engineering at **Southwest Jiaotong University**  
 💻 Passionate about turning coffee into code  
 🌱 Currently learning **Large Language Models**  
-🚀 Building the future one commit at a time  
 
 ---
 
@@ -12,15 +11,6 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Cpp](https://img.shields.io/badge/-Cpp-3776AB?logo=cpp&logoColor=white)
-
-**Tools & Frameworks:**
-*Coming soon...*
-
----
-
-### 🎯 Featured Projects
-👨💻 *Projects under construction. Stay tuned!*  
-
 
 ---
 
